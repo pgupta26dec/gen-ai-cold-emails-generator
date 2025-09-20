@@ -1,1 +1,1 @@
-# gen-ai-cold-email
+# gen-ai-cold-emails-generator
