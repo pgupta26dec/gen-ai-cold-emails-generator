@@ -12,7 +12,7 @@ Highlights<br>
 🌐 LangChain: Facilitates web scraping and data extraction effectively.<br>
 🚀 Streamlit UI: Builds a user-friendly interface for project interaction.<br>
 🌍 Real-World Application: Designed for companies like TCS and Infosys.<br>
-👨‍💼 Sales Efficiency: Aids business development in competitive markets.<br><br>
+👨‍💼 Business Efficiency: Aids business development in competitive markets.<br><br>
 <hr>
 Key Insights<br>
 📈 Market Need: The project addresses the competitive landscape of software services by improving cold email strategies, essential for winning projects.<br>
